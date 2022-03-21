@@ -1,5 +1,5 @@
 seeds:  
-  412dc79629e9922e0a1f00dfb018c575
+  412dc79629e9922e0a1f00dfb018c575:
 	addresses: 
 	- "/ip4/94.130.216.19/tcp/6180/ln-noise-ik/38f7149d2c809af06bbdecb3df5d7fcc412dc79629e9922e0a1f00dfb018c575/ln-handshake/0" 
 	role: "Upstream"  
